@@ -1,4 +1,4 @@
-module learn_GoCoding/module1/del2/myqoute
+module github.com/StokkenLudvig/m1d2_myquote/myquote
 
 go 1.17
 
