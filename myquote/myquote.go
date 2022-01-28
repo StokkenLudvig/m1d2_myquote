@@ -8,14 +8,14 @@ func myGlass() string {
 	return quote.Glass()
 }
 
-func myGo() {
-	return quote.Glass()
+func myGo() string {
+	return quote.Go()
 }
 
-func myHello() {
-	return quote.Glass()
+func myHello() string {
+	return quote.Hello()
 }
 
-func myOpt() {
-	return quote.Glass()
+func myOpt() string {
+	return quote.Opt()
 }

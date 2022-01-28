@@ -1,4 +1,4 @@
-module github.com/stokkenludvig/m1d2_myquote/myquote
+module github.com/StokkenLudvig/m1d2_myquote/myquote
 
 go 1.17
 
