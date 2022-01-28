@@ -4,18 +4,18 @@ import (
 	"rsc.io/quote"
 )
 
-func myGlass(){
-	fmt.Println(quote.Glass())
+func myGlass() string {
+	return quote.Glass()
 }
 
-func myGo(){
-	fmt.Println(quote.Go())
+func myGo() {
+	return quote.Glass()
 }
 
-func myHello(){
-	fmt.Println(quote.Hello())
+func myHello() {
+	return quote.Glass()
 }
 
-func myOpt(){
-	fmt.Println(quote.Opt())
+func myOpt() {
+	return quote.Glass()
 }

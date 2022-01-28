@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	myquote.Glass()
+	fmt.Println(myquote.myGlass())
 }
